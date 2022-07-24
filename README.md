@@ -8,3 +8,5 @@ Compile in a single .xls file all .xls files containing FlyTracker data extracte
 6. The new table is saved as "Compilation.xls" in the Compilation folder.
 
 CRITICAL: MATLAB will generate errors and the execution of the script will abort if the .xls files put in the Compilation folder do not have the same dimensions.
+
+[![DOI](https://zenodo.org/badge/505957139.svg)](https://zenodo.org/badge/latestdoi/505957139)
